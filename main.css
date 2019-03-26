@@ -27,8 +27,8 @@ nav div a, nav div a svg {
 }
 
 nav div a:hover, nav div a:hover svg {
-    color: blue;
-    fill: tomato;
+    color: skyblue;
+    fill: skyblue;
 }
 
 nav > div
